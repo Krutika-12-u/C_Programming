@@ -4,7 +4,7 @@
   Function Name : Division 
   Input : Integer,Integer
   Output : Integer
-  Description : Performs Addition
+  Description : Performs Division
   Date : 25/10/2026
   Author : Krutika Gulab Ubhe
 */
