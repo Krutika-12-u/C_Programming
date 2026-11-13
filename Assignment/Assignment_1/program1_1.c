@@ -1,4 +1,14 @@
-#include <stdio.h>
+// program to Divide Two Numbers
+
+/* 
+  Function Name : Division 
+  Input : Integer,Integer
+  Output : Integer
+  Description : Performs Addition
+  Date : 25/10/2026
+  Author : Krutika Gulab Ubhe
+*/
+    #include <stdio.h>
 
 int Divide(int iNo1, int iNo2)
 {
