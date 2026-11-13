@@ -1,3 +1,14 @@
+// Accept one number and check whether is it divisible by 5 or not 
+
+/* 
+  Function Name : Check
+  Input : Integer
+  Output : Integers
+  Description : Is number divisible by 5 or not
+  Date : 25/10/2026
+  Author : Krutika Gulab Ubhe
+*/
+
 #include<stdio.h>
 
 typedef int BOOL;
@@ -17,7 +28,7 @@ BOOL Check(int iNo)
 }
 
 int main()
-{
+{b
     int iValue = 0;
     BOOL bRet = FALSE;
 
